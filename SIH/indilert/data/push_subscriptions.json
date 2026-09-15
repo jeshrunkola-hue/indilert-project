@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sub_1789062566877_mqwdsxn",
+    "user_id": null,
+    "endpoint": "https://updates.push.services.mozilla.com/wpush/v2/mock_device_1",
+    "p256dh": "BElmockKeyDevice1...",
+    "auth": "mockAuthDevice1==",
+    "device": "Mozilla Firefox Mobile",
+    "region": "Meghalaya",
+    "district": "East Khasi Hills",
+    "created_at": "2026-09-10T17:49:26.877Z",
+    "updated_at": "2026-09-10T17:49:26.954Z",
+    "active": false
+  },
+  {
+    "id": "sub_1789062566890_63w9k7k",
+    "user_id": null,
+    "endpoint": "https://fcm.googleapis.com/fcm/send/mock_device_2",
+    "p256dh": "BElmockKeyDevice2...",
+    "auth": "mockAuthDevice2==",
+    "device": "Google Chrome Desktop",
+    "region": "Assam",
+    "district": "Kamrup",
+    "created_at": "2026-09-10T17:49:26.890Z",
+    "updated_at": "2026-09-10T17:49:26.890Z",
+    "active": true
+  }
+]
