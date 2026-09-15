@@ -1,0 +1,16 @@
+{
+  "short_name": "NER-SAFE",
+  "name": "NER-SAFE: AI-Powered Landslide Early Warning & Monitoring Platform",
+  "description": "Real-time landslide risk monitoring, early warning, and citizen disaster reporting for North Eastern Region of India",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
